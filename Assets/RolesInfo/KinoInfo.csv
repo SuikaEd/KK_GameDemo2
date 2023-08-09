@@ -1,0 +1,9 @@
+﻿普通技能1,普通,,1,-,300,,,
+普通技能2,普通,,,-,250,All,属性效果持续2回合,
+普通技能3,普通,魔法技能1发动后,1,-,220,,,
+魔法技能1,魔法,Magic-12,,-,100,,敌方+2AP点,我方全体力量/武器加成+50%
+魔法技能2,魔法,Magic-10,,-,100,,敌方所有属性变成弱点属性持续两回合,
+高压技,高压,,-3,-,900,,,
+,,,,,,,,
+(SkillName),(SkillClass),(SkillCon),(SkillAp),(SkillGenDem),(SkillGenDemN),(SkillHCTW),(SkillSpeDem),(SkillSpeDemN)
+string,string,Log&string,int,Log&string,float,Log&string,Log&string,float
